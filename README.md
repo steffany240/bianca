@@ -1,3 +1,8 @@
+<head>
+   <link rel="sylesheet" href="styles.css" />
+   <titulo></titulo>
+</head>
+
 <body>
     
 
